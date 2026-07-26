@@ -1,4 +1,5 @@
 # ⚡ Agentic Workflow Automator (Batch SaaS Engine)
+![Dashboard preview](./dashboard_skyblue.png)
 
 An end-to-end, AI-powered workflow extraction and batch processing engine. This application allows users to parse unstructured natural language automation prompts, process bulk CSV/TXT files, persist audit logs to a SQLite database, and simulate real-time email execution alerts.
 
